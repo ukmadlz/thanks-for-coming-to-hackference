@@ -1,1 +1,1 @@
-#  Thanks & Enjoy
+#  Thanks
