@@ -9,6 +9,127 @@
     "quiz-winner.md",
     "our-team.md",
     "volunteers.md",
+    ["speakers.md",
+    {
+        "filename": "callum-hopkins.md",
+        "attr": {
+            "class": "speaker"
+        }
+    },
+    {
+        "filename": "dan-jenkins.md",
+        "attr": {
+            "class": "speaker"
+        }
+    },
+    {
+        "filename": "etiene-dalcol.md",
+        "attr": {
+            "class": "speaker"
+        }
+    },
+    {
+        "filename": "hugh-rawlinson.md",
+        "attr": {
+            "class": "speaker"
+        }
+    },
+    {
+        "filename": "joe-nash.md",
+        "attr": {
+            "class": "speaker"
+        }
+    },
+    {
+        "filename": "john-stevenson.md",
+        "attr": {
+            "class": "speaker"
+        }
+    },
+    {
+        "filename": "jonathan-kingsley.md",
+        "attr": {
+            "class": "speaker"
+        }
+    },
+    {
+        "filename": "manoj-nathwani.md",
+        "attr": {
+            "class": "speaker"
+        }
+    },
+    {
+        "filename": "martin-beeby.md",
+        "attr": {
+            "class": "speaker"
+        }
+    },
+    {
+        "filename": "martin-kearn.md",
+        "attr": {
+            "class": "speaker"
+        }
+    },
+    {
+        "filename": "melinda-seckington.md",
+        "attr": {
+            "class": "speaker"
+        }
+    },
+    {
+        "filename": "nicolas-grenie.md",
+        "attr": {
+            "class": "speaker"
+        }
+    },
+    {
+        "filename": "phil-leggetter.md",
+        "attr": {
+            "class": "speaker"
+        }
+    },
+    {
+        "filename": "rob-spectre.md",
+        "attr": {
+            "class": "speaker"
+        }
+    },
+    {
+        "filename": "robin-johnson.md",
+        "attr": {
+            "class": "speaker"
+        }
+    },
+    {
+        "filename": "ruth-john.md",
+        "attr": {
+            "class": "speaker"
+        }
+    },
+    {
+        "filename": "sam-phippen.md",
+        "attr": {
+            "class": "speaker"
+        }
+    },
+    {
+        "filename": "simon-tabor.md",
+        "attr": {
+            "class": "speaker"
+        }
+    },
+    {
+        "filename": "tim-messerschmidt.md",
+        "attr": {
+            "class": "speaker"
+        }
+    },
+    {
+        "filename": "tim-perry.md",
+        "attr": {
+            "class": "speaker"
+        }
+    }],
     [
         "sponsors.md",
         {

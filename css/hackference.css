@@ -24,3 +24,7 @@ section#bronze img {
   background: #FFF;
   padding: 1em;
 }
+
+section.speaker img {
+  width: 300px;
+}
